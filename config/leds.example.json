@@ -1,0 +1,14 @@
+{
+  "hw": {
+    "led": {
+      "total": 600,
+      "maxpwr": 2000,
+      "fps": 40,
+      "ins": [
+        {"pin": [18], "start": 0, "len": 300, "type": 22, "order": 0, "ledma": 55, "maxpwr": 1000},
+        {"pin": [19], "start": 300, "len": 300, "type": 22, "order": 0, "ledma": 55, "maxpwr": 1000}
+      ]
+    }
+  },
+  "def": {"ps": 1, "on": true, "bri": 255}
+}

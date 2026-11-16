@@ -1,0 +1,11 @@
+.venv/
+.pio/
+.ruff_cache/
+backups/
+__pycache__/
+*.py[cod]
+.amp/
+.DS_Store
+.env
+.env.*
+config/*.local.json

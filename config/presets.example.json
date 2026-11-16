@@ -1,0 +1,2640 @@
+{
+  "0": {},
+
+  "1": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            255,
+            160,
+            70
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            255,
+            80,
+            10
+          ]
+        ],
+        "fx": 9,
+        "sx": 100,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            255,
+            160,
+            70
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            255,
+            80,
+            10
+          ]
+        ],
+        "fx": 9,
+        "sx": 100,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Rainbow flow"
+  },
+  "2": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            255,
+            100,
+            20
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 0,
+        "sx": 128,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            255,
+            100,
+            20
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 0,
+        "sx": 128,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Solid color"
+  },
+  "3": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            255,
+            160,
+            70
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            255,
+            80,
+            10
+          ]
+        ],
+        "fx": 0,
+        "sx": 128,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            255,
+            160,
+            70
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            255,
+            80,
+            10
+          ]
+        ],
+        "fx": 0,
+        "sx": 128,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Warm evening"
+  },
+  "4": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            255,
+            50,
+            0
+          ],
+          [
+            40,
+            0,
+            255
+          ],
+          [
+            0,
+            200,
+            140
+          ]
+        ],
+        "fx": 12,
+        "sx": 50,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            255,
+            50,
+            0
+          ],
+          [
+            40,
+            0,
+            255
+          ],
+          [
+            0,
+            200,
+            140
+          ]
+        ],
+        "fx": 12,
+        "sx": 50,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Slow color fade"
+  },
+  "5": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            0,
+            140,
+            255
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 2,
+        "sx": 65,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            0,
+            140,
+            255
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 2,
+        "sx": 65,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Gentle breathe"
+  },
+  "6": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            0,
+            200,
+            255
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 76,
+        "sx": 115,
+        "ix": 150,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            0,
+            200,
+            255
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 76,
+        "sx": 115,
+        "ix": 150,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Comet"
+  },
+  "7": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            255,
+            160,
+            70
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            255,
+            80,
+            10
+          ]
+        ],
+        "fx": 80,
+        "sx": 65,
+        "ix": 150,
+        "pal": 59,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            255,
+            160,
+            70
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            255,
+            80,
+            10
+          ]
+        ],
+        "fx": 80,
+        "sx": 65,
+        "ix": 150,
+        "pal": 59,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Twinkling stars"
+  },
+  "8": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            255,
+            160,
+            70
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            255,
+            80,
+            10
+          ]
+        ],
+        "fx": 66,
+        "sx": 95,
+        "ix": 130,
+        "pal": 35,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            255,
+            160,
+            70
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            255,
+            80,
+            10
+          ]
+        ],
+        "fx": 66,
+        "sx": 95,
+        "ix": 130,
+        "pal": 35,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Cozy fire"
+  },
+  "9": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            255,
+            160,
+            70
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            255,
+            80,
+            10
+          ]
+        ],
+        "fx": 38,
+        "sx": 65,
+        "ix": 120,
+        "pal": 50,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            255,
+            160,
+            70
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            255,
+            80,
+            10
+          ]
+        ],
+        "fx": 38,
+        "sx": 65,
+        "ix": 120,
+        "pal": 50,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Aurora"
+  },
+  "10": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            255,
+            0,
+            110
+          ],
+          [
+            0,
+            150,
+            255
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 3,
+        "sx": 80,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            255,
+            0,
+            110
+          ],
+          [
+            0,
+            150,
+            255
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 3,
+        "sx": 80,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Color wipe"
+  },
+  "11": {
+    "mainseg": 0,
+    "seg": [
+      {
+        "id": 0,
+        "start": 0,
+        "stop": 300,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 1 - GPIO 18",
+        "col": [
+          [
+            255,
+            140,
+            30
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 13,
+        "sx": 95,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "id": 1,
+        "start": 300,
+        "stop": 600,
+        "grp": 1,
+        "spc": 0,
+        "of": 0,
+        "on": true,
+        "frz": false,
+        "bri": 255,
+        "cct": 127,
+        "set": 0,
+        "lc": 1,
+        "n": "Strip 2 - GPIO 19",
+        "col": [
+          [
+            255,
+            140,
+            30
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0
+          ]
+        ],
+        "fx": 13,
+        "sx": 95,
+        "ix": 128,
+        "pal": 0,
+        "c1": 128,
+        "c2": 128,
+        "c3": 16,
+        "sel": true,
+        "rev": false,
+        "mi": false,
+        "o1": false,
+        "o2": false,
+        "o3": false,
+        "si": 0,
+        "m12": 0,
+        "bm": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      },
+      {
+        "stop": 0
+      }
+    ],
+    "n": "Theater chase"
+  },
+  "12": {
+    "playlist": {
+      "ps": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "dur": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150
+      ],
+      "transition": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "repeat": 0,
+      "end": 1,
+      "r": 0
+    },
+    "on": true,
+    "n": "Demo loop"
+  },
+  "13": {
+    "n": "Running lights",
+    "mainseg": 0,
+    "transition": 10,
+    "seg": [
+      {
+        "id": 0,
+        "n": "Strip 1 - GPIO 18",
+        "start": 0,
+        "stop": 300,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 15,
+        "col": [
+          [
+            0,
+            200,
+            255
+          ],
+          [
+            40,
+            0,
+            80
+          ],
+          [
+            255,
+            0,
+            100
+          ]
+        ],
+        "pal": 0,
+        "sx": 120,
+        "ix": 150,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      },
+      {
+        "id": 1,
+        "n": "Strip 2 - GPIO 19",
+        "start": 300,
+        "stop": 600,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 15,
+        "col": [
+          [
+            0,
+            200,
+            255
+          ],
+          [
+            40,
+            0,
+            80
+          ],
+          [
+            255,
+            0,
+            100
+          ]
+        ],
+        "pal": 0,
+        "sx": 120,
+        "ix": 150,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      }
+    ]
+  },
+  "14": {
+    "n": "Rainbow runner",
+    "mainseg": 0,
+    "transition": 10,
+    "seg": [
+      {
+        "id": 0,
+        "n": "Strip 1 - GPIO 18",
+        "start": 0,
+        "stop": 300,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 33,
+        "col": [
+          [
+            255,
+            0,
+            100
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            180,
+            255
+          ]
+        ],
+        "pal": 0,
+        "sx": 140,
+        "ix": 150,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      },
+      {
+        "id": 1,
+        "n": "Strip 2 - GPIO 19",
+        "start": 300,
+        "stop": 600,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 33,
+        "col": [
+          [
+            255,
+            0,
+            100
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            180,
+            255
+          ]
+        ],
+        "pal": 0,
+        "sx": 140,
+        "ix": 150,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      }
+    ]
+  },
+  "15": {
+    "n": "Party color waves",
+    "mainseg": 0,
+    "transition": 10,
+    "seg": [
+      {
+        "id": 0,
+        "n": "Strip 1 - GPIO 18",
+        "start": 0,
+        "stop": 300,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 67,
+        "col": [
+          [
+            255,
+            0,
+            100
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            180,
+            255
+          ]
+        ],
+        "pal": 6,
+        "sx": 115,
+        "ix": 170,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      },
+      {
+        "id": 1,
+        "n": "Strip 2 - GPIO 19",
+        "start": 300,
+        "stop": 600,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 67,
+        "col": [
+          [
+            255,
+            0,
+            100
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            180,
+            255
+          ]
+        ],
+        "pal": 6,
+        "sx": 115,
+        "ix": 170,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      }
+    ]
+  },
+  "16": {
+    "n": "Party beat",
+    "mainseg": 0,
+    "transition": 10,
+    "seg": [
+      {
+        "id": 0,
+        "n": "Strip 1 - GPIO 18",
+        "start": 0,
+        "stop": 300,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 68,
+        "col": [
+          [
+            255,
+            0,
+            100
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            180,
+            255
+          ]
+        ],
+        "pal": 6,
+        "sx": 100,
+        "ix": 180,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      },
+      {
+        "id": 1,
+        "n": "Strip 2 - GPIO 19",
+        "start": 300,
+        "stop": 600,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 68,
+        "col": [
+          [
+            255,
+            0,
+            100
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            180,
+            255
+          ]
+        ],
+        "pal": 6,
+        "sx": 100,
+        "ix": 180,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      }
+    ]
+  },
+  "17": {
+    "n": "Rainbow chase",
+    "mainseg": 0,
+    "transition": 10,
+    "seg": [
+      {
+        "id": 0,
+        "n": "Strip 1 - GPIO 18",
+        "start": 0,
+        "stop": 300,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 30,
+        "col": [
+          [
+            255,
+            0,
+            100
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            180,
+            255
+          ]
+        ],
+        "pal": 0,
+        "sx": 145,
+        "ix": 150,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      },
+      {
+        "id": 1,
+        "n": "Strip 2 - GPIO 19",
+        "start": 300,
+        "stop": 600,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 30,
+        "col": [
+          [
+            255,
+            0,
+            100
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            180,
+            255
+          ]
+        ],
+        "pal": 0,
+        "sx": 145,
+        "ix": 150,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      }
+    ]
+  },
+  "18": {
+    "n": "Disco glitter",
+    "mainseg": 0,
+    "transition": 10,
+    "seg": [
+      {
+        "id": 0,
+        "n": "Strip 1 - GPIO 18",
+        "start": 0,
+        "stop": 300,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 87,
+        "col": [
+          [
+            255,
+            0,
+            100
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            180,
+            255
+          ]
+        ],
+        "pal": 6,
+        "sx": 110,
+        "ix": 160,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      },
+      {
+        "id": 1,
+        "n": "Strip 2 - GPIO 19",
+        "start": 300,
+        "stop": 600,
+        "on": true,
+        "bri": 255,
+        "sel": true,
+        "fx": 87,
+        "col": [
+          [
+            255,
+            0,
+            100
+          ],
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            180,
+            255
+          ]
+        ],
+        "pal": 6,
+        "sx": 110,
+        "ix": 160,
+        "grp": 1,
+        "spc": 0,
+        "rev": false,
+        "mi": false
+      }
+    ]
+  },
+  "19": {
+    "n": "Party mix",
+    "on": true,
+    "playlist": {
+      "ps": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "dur": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120
+      ],
+      "transition": [
+        15,
+        15,
+        15,
+        15,
+        15,
+        15
+      ],
+      "repeat": 0,
+      "end": 1
+    }
+  }
+}
